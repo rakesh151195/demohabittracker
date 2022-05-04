@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168888445451",
+    "project_id": "demohabittracker",
+    "storage_bucket": "demohabittracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168888445451:android:b3d159778fb4f8d8fbf50e",
+        "android_client_info": {
+          "package_name": "com.example.demohabittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168888445451-ddrsk8g04tap8j07hsohmqih3r2qkqeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wFh0lIWrYAZJOxvPX2RmplqlD0yKMiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168888445451-ddrsk8g04tap8j07hsohmqih3r2qkqeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
